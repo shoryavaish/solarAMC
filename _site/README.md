@@ -1,2 +1,2 @@
-# solarwebsite
+# solarAMC
 Official website for SolarAMC
