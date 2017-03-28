@@ -1,3 +1,5 @@
-_config.yml
+# ignoring file
+/_config.yml
+# ignoring foolders
 _site
 .sass-cache
