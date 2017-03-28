@@ -1,3 +1,3 @@
-# solarAMC
-Official website for SolarAMC
-visit here : https://shoryavaish.github.io/solarwebsite/
+## SolarAMC
+:star2:Official website for SolarAMC
+visit here : https://shoryavaish.github.io/solaramc/
