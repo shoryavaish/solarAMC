@@ -221,21 +221,21 @@ ul{
 .upperHeader{
 	color: white;
     margin-left: -1vw;
-    margin-top: 5vh;
+    margin-top: 4%;
     font-size: 28px;
 }
 .midSegment{
 	color: white;
 	width: 24vw;
 	position: absolute;
-	margin-top: 12vh;
+	margin-top: 10%;
 }
 .lowerHeader{
 	color: white;
 	text-align: left;
 	font-size: 28px;
 	position: absolute;
-	margin-top: 10vh;
+	margin-top: 9%;
     margin-left: -1vw;
 }
 /* End Ttile*/
@@ -270,7 +270,7 @@ ul{
 
 /*Next Pages*/
 .next{
-	margin-top: 15vh;
+	margin-top: 8%;
 }
 .page-text-headline{
 	font-size: 29px;
