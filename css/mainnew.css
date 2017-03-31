@@ -4,12 +4,6 @@
 img {
   max-width: 100%;
   vertical-align: middle; }
-
-
-li > ul,
-li > ol {
-  margin-bottom: 0; }
-
 /**
  * Headings
  */
@@ -18,10 +12,7 @@ li > ol {
  * Links
  */
 a {
-  color: #2a7ae2;
   text-decoration: none; }
-  a:visited {
-    color: #1756a9; }
 
 /**
  * Wrapper
