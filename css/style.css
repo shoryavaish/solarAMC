@@ -118,9 +118,9 @@ ul{
 /*
 	-webkit-transition: all .3s ease .15s;
 	-moz-transition: all .3s ease .15s;
-	-o-transition: all .3s ease .15s;
+	-o-transition: all .3s ease .15s;*/
+	/*transition: all .3s ease .15s;*/
 	-ms-transition: all .3s ease .15s;
-	transition: all .3s ease .15s;*/
 }
 
 .nav > li:hover > div {
@@ -326,6 +326,9 @@ ul{
     -ms-flex-pack: center;
     justify-content: center;
     list-style: none;
+}
+.container-logo li{
+	margin:0;
 }
 .container-logo .common-Button {
     position: absolute;
