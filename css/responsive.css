@@ -1,0 +1,137 @@
+/*@media(max-width: 1200px){
+	.mainTitle{
+		font-size: 120px;
+	}
+	.upperHeader{
+		margin-top: 3vh;
+	    font-size: 2.9vw;
+	}
+	.midSegment{
+		width: 30vw;
+		margin-top: 8vh;
+	}
+	.lowerHeader{
+		font-size: 2.9vw;
+		margin-top: 7vh;
+	}
+}
+@media(max-width: 992px){
+	.mainTitle{
+		font-size: 120px;
+	}
+	.subTitle{
+		margin-left: 1vw;
+	}
+	.home{
+		margin-top: 20vh;
+	}
+	.upperHeader{
+		margin-top: 4vh;
+	    font-size: 15px;
+	}
+	.midSegment{
+		width: 30vw;
+		margin-top: 8vh;
+	}
+	.lowerHeader{
+		font-size: 2.9vw;
+		margin-top: 5vh;
+	}
+}*/
+/*@media only screen and (max-width: 768px){
+	.mainTitle{
+		font-size: 100px;
+	}
+	.home{
+		margin-top: 20vh;
+	}
+	.upperHeader{
+		margin-top: 3vh;
+	    font-size: 15px;
+	}
+	.subTitle{
+		margin-left: 1vw;
+	}
+	.midSegment{
+		width: 42vw;
+		margin-top: 7vh;
+	}
+	.lowerHeader{
+		font-size: 15px;
+		margin-top: 6vh;
+	}
+	.size-ampersand{
+		font-size: 16px;
+	}
+	.mob-space{
+		margin-top: 50px;
+	}
+	.page-text, .page-text-headline,img{
+		text-align: center;
+	}
+	ul,li{
+		text-align: left;
+		list-style: none;
+	}
+}*/
+@media (max-width: 767px) {
+	.mainTitle{
+		font-size: 7em;
+	}
+	.subTitle{
+		font-size: 1.2em;
+		margin-left: 1vw;
+	}
+	.home{
+		margin-top: 40%;
+	}
+	.midSegment{
+		margin-left: 2.5%;
+		margin-top: 11%;
+		width: 47%;
+	}
+	.size-ampersand{
+		font-size: 1em;
+	}
+	ul,li{
+		text-align: left;
+		list-style: none;
+	}
+	.page-text, .page-text-headline,img{
+		text-align: center;
+	}
+	.mob-top-space{
+		margin-top: 10%;
+	}
+	.hover-icon{
+		margin-right: 7px;
+	}
+	.lowerIcons{
+		margin-top: 45%;
+	}
+}
+@media (min-width: 768px) and (max-width: 991px) {
+	ul,li{
+		text-align: left;
+		list-style: none;
+	}
+	.page-text, .page-text-headline,img{
+		text-align: center;
+	}
+	.home{
+		margin-top: 10%;
+	}
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+	/*ul,li{
+		text-align: left;
+		list-style: none;
+	}
+	.page-text, .page-text-headline,img{
+		text-align: center;
+	}*/
+}
+@media (min-width: 1200px) {
+
+}
+	/*End Responsive*/
