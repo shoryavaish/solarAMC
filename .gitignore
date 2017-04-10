@@ -3,3 +3,5 @@
 # ignoring foolders
 _site
 .sass-cache
+/fonts
+/images
