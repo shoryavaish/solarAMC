@@ -15,9 +15,6 @@
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
    <!-- JQuery  -->
   <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
-  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
-  <script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.2/modernizr.js"></script>
-
   <!-- Custom CSS -->
   <link rel="stylesheet" href="/solaramc/css/header-nav.min.css">
   <link rel="stylesheet" href="/solaramc/css/style.min.css" media="all">
@@ -25,16 +22,12 @@
   
   <link rel="canonical" href="http://localhost:4000/">
   <link rel="alternate" type="application/rss+xml" title="Soalar AMC" href="/feed.xml">
-
-
-<!-- JQuery to show loader -->
+    
     <script>
-    $(window).load(function() {
-        // Animate loader off screen
-        $(".se-pre-con").fadeOut("slow");;
-    });
+        $(window).ready(function() {
+            $('#loading').hide();
+        });
     </script>
-
   
   
 </head>
@@ -44,8 +37,8 @@
     
     <!-- Loader -->
 
-  <div class="se-pre-con"></div>
-  
+    <div id="loading"></div>
+
     <!-- END -->
 
   <header class="site-header" role="banner">
